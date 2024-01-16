@@ -127,30 +127,6 @@
             "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela, Salada, Bacon e Ovo com molho especial.",
             "price": "28,99",
             "imgSrc": "https://big10.com.br/wp-content/uploads/2021/03/hamburguer-xbacon.jpg"
-        },
-        {
-            "name": "X-Tudo",
-            "desc": "Hamburguer, Queijo Mussarela, Presunto, Salada, Bacon e Ovo no Pão Francês",
-            "price": "21,99",
-            "imgSrc": "https://storage.googleapis.com/domain-images/917f20cf-8264-4464-bf5b-568562330312/products/gallery_9cadb3d1-99af-4caf-82bb-fb294a85c4c8.jpg"
-        },
-        {
-            "name": "X-Frango",
-            "desc": "Filé de Frango, Queijo Mussarela e Salada.",
-            "price": "16,99",
-            "imgSrc": "https://cdn.awsli.com.br/600x450/91/91803/produto/2968754/f3eaf2dcdb.jpg"
-        },
-        {
-            "name": "X-Frango Tudo",
-            "desc": "Filé de Frango, Queijo Mussarela, Presunto, Salada, Bacon e Ovo.",
-            "price": "18,99",
-            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
-        },
-        {
-            "name": "X-Churrasco",
-            "desc": "Contra Filé, Queijo Mussarela e Salada.",
-            "price": "21,99",
-            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
         }
     ],
     "Lanches-da-Casa": [
@@ -170,13 +146,19 @@
             "name": "X-Frango Tudo",
             "desc": "Filé de Frango, Queijo Mussarela, Presunto, Salada, Bacon e Ovo.",
             "price": "18,99",
-            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+            "imgSrc": "https://www.paollarestaurante.com.br/uploads/images/2019/08/x-frango-1564805822.jpg"
         },
         {
             "name": "X-Churrasco",
             "desc": "Contra Filé, Queijo Mussarela e Salada.",
             "price": "21,99",
-            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+            "imgSrc": "https://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-churrasco.jpg"
+        },
+        {
+            "name": "X-Mortadela",
+            "desc": "Queijo Mussarela e Mortadela no Pão francês.",
+            "price": "8,99",
+            "imgSrc": "https://static.itdg.com.br/images/1200-675/df5bbc7a14e7103aa0d8ca8125d61f8b/342902-original.jpg"
         }
     ],
     "Sanduíches": [
@@ -205,12 +187,6 @@
             "imgSrc": "https://i0.statig.com.br/bancodeimagens/2r/5g/l7/2r5gl73lyxqlpxwoodysu86q5.jpg"
         },
         {
-            "name": "X-Mortadela",
-            "desc": "Queijo Mussarela e Mortadela no Pão francês.",
-            "price": "8,99",
-            "imgSrc": "https://i0.statig.com.br/bancodeimagens/2r/5g/l7/2r5gl73lyxqlpxwoodysu86q5.jpg"
-        },
-        {
             "name": "Pão com Ovo",
             "desc": "Mortadela com Ovo no Pão francês.",
             "price": "7,99",
@@ -222,37 +198,37 @@
             "name": "Tapioca com Manteiga",
             "desc": "",
             "price": "7,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://fastacai.com.br/wp-content/themes/br_fastacai/assets/images/tapioca/tapioca-nutri.png"
         },
         {
             "name": "Tapioca de Presunto e Queijo",
             "desc": "",
             "price": "11,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://receitasdapaula.com/wp-content/uploads/2014/01/DSC06274-530x250.jpg"
         },
         {
-            "name": "Tapioca Bauru",
+            "name": "Tapioca de Bauru",
             "desc": "",
             "price": "12,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://sm2.imgs.sapo.pt/mb/1/5/7/0c1f63931958250527ec07c9f2a052666d8a9.jpg"
         },
         {
             "name": "Tapioca com Calabresa",
             "desc": "",
             "price": "8,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://a-static.mlcdn.com.br/450x450/tapioca-da-terrinha-na-medida-sache-90-g-da-terrinha-alimentos/alefoods/697921276/2632e28b54e82be4c2f7d1f740f52fa2.jpeg"
         },
         {
             "name": "Tapioca com Carne Seca",
             "desc": "",
             "price": "11,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2017/01/314_tapioca_com_carne_seca-1200x798.jpg"
         },
         {
             "name": "Tapioca com Frango com Queijo Mussarela",
             "desc": "",
             "price": "11,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://i.ytimg.com/vi/RogIezQjfIo/maxresdefault.jpg"
         }
     ],
     "Tapioca-Doce": [
@@ -260,25 +236,25 @@
             "name": "Tapioca com Nutella",
             "desc": "",
             "price": "33,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://blog.novasafra.com.br/wp-content/uploads/2020/09/23934764-780x400.jpeg" 
         },
         {
             "name": "Tapioca com Nutella e Coco",
             "desc": "",
             "price": "34,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://www.viagenspossiveis.com.br/wp-content/uploads/2014/04/Dreamland-Bungalows-Taipu-de-Fora-24.jpg"
         },
         {
             "name": "Tapioca com Leite Condesnado",
             "desc": "",
             "price": "8,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://xamegobom.com.br/wp-content/uploads/2017/02/tapioca-com-leite-condensado1.jpg"
         },
         {
             "name": "Tapioca com Leite Condesnado e Coco",
             "desc": "",
             "price": "11,99",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+            "imgSrc": "https://receitas123.com/wp-content/uploads/2023/09/tapioca-de-coco-com-leite-condensado.png"
         }
     ],
     "Porções": [

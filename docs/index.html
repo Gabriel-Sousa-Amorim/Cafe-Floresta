@@ -32,7 +32,7 @@
     </section>
   </header>
   <main class="font-MontserratAlternates mx-10">
-    <article class="flex flex-col w-full gap-3 pb-3 mb-3 border-b border-gray-400">
+    <article class="flex flex-col w-full gap-3 pb-3 mb-3">
       <section class="flex-1" id="SobreNos">
         <h2 class="font-bold">Sobre Nós</h2>
         <p class="text-justify font-light font-RethinkSans">
@@ -45,21 +45,23 @@
         <h2 class="font-bold">Localização</h2>
         <p class="text-justify font-RethinkSans font-light">Rua Canindé, 234 - Canindé, São Paulo - SP, 03033-000.</p>
         <iframe
-          class="brightness-50 rounded-xl transition-filter duration-300 min-h-64 h-full w-full hover:brightness-100"
+          class="brightness-50 rounded-xl transition-filter duration-300 min-h-96 h-full w-full hover:brightness-100"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.472095703244!2d-46.62562791917627!3d-23.532844793154204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58efd0e06fb1%3A0xfd4b56ac2dca055d!2sCaf%C3%A9%20Floresta!5e0!3m2!1spt-BR!2sbr!4v1705080064850!5m2!1spt-BR!2sbr"
           loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </section>
+          <hr>
+        </section>
     </article>
     <article>
       <section id="cardapioSection" class="min-h-screen">
-        <div class="flex justify-between border-b-2 pb-3">
+        <div class="flex justify-between">
           <h2 class="text-2xl font-MontserratAlternates font-bold">Nosso Cardápio</h2>
           <div id="viewContainer" class="flex gap-5 font-RethinkSans">
             <button id="gridViewBtn" class="bi-layout-text-window-reverse hover:text-gray-500"> Texto</button>
             <button id="textViewBtn" class="bi-grid hover:text-gray-500"> Imagens</button>
           </div>
         </div>
-          <section id="cardapioContainer">
+        <hr>
+          <section id="cardapioContainer" data-type="grid">
 
           </section>
       </section>
@@ -92,6 +94,8 @@
     </section>
   </footer>
 </body>
-<script src="main.js"></script>
+<script src="main.js">
+  
+</script>
 
 </html>
