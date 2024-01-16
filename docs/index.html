@@ -12,11 +12,12 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rethink+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap"
     rel="stylesheet">
+    
   <title>Café Floresta Canindé</title>
 </head>
 
 <body class="bg-gradient-to-r from-zinc-100 to-neutral-100">
-  <header id="header" class="min-h-40 px-10 bg-cover bg-fixed flex justify-between items-center border-b-2 border-green-400 text-green-500 mb-10 font-MontserratAlternates">
+  <header id="header" class="min-h-40 px-10 bg-cover bg-fixed flex justify-between items-center border-b-4 border-lime-300 text-lime-300 mb-10 font-MontserratAlternates">
     <section>
       <h1 class="italic text-2xl">Café Floresta</h1>
     </section>
@@ -50,8 +51,17 @@
       </section>
     </article>
     <article>
-      <section id="cardapioSection">
-        <h2 class="text-2xl font-MontserratAlternates font-bold">Nosso Cardápio</h2>
+      <section id="cardapioSection" class="min-h-screen">
+        <div class="flex justify-between border-b-2 pb-3">
+          <h2 class="text-2xl font-MontserratAlternates font-bold">Nosso Cardápio</h2>
+          <div id="viewContainer" class="flex gap-5 font-RethinkSans">
+            <button id="gridViewBtn" class="bi-layout-text-window-reverse hover:text-gray-500"> Texto</button>
+            <button id="textViewBtn" class="bi-grid hover:text-gray-500"> Imagens</button>
+          </div>
+        </div>
+          <section id="cardapioContainer">
+
+          </section>
       </section>
     </article>
   </main>
