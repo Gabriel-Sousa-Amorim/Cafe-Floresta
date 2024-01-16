@@ -1,0 +1,322 @@
+{
+    "Prato-Feito": [
+        {
+            "name": "Filé de Frango",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://s3-sa-east-1.amazonaws.com/loja2/70ff4c569495a9f24a03421e3d33bc2a.jpg"
+        },
+        {
+            "name": "Frango Empanado",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://i.pinimg.com/736x/14/98/21/1498218fac3a2f12ce6bd92f0bc36456.jpg"
+        },
+        {
+            "name": "Carne de Panela",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://cdn.awsli.com.br/600x450/1686/1686354/produto/125204606/390bd39f62.jpg"
+        },
+        {
+            "name": "Bife à Parmegiana",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2016/12/bife-a-parmegiana-scaled.jpg"
+        },
+        {
+            "name": "Bife a Cavalo",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://static.ifood-static.com.br/image/upload/t_high/pratos/4b6599ad-436d-4324-b851-66e3bbfc9026/202202221837_8065_i.jpg"
+        },
+        {
+            "name": "Linguiça Calabresa",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://as1.ftcdn.net/v2/jpg/04/47/67/78/1000_F_447677887_E02yvdxoX2tkkwqUoCE64CxdviaOH6sw.jpg"
+        },
+        {
+            "name": "Linguiça Toscana",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://as1.ftcdn.net/v2/jpg/04/47/67/80/1000_F_447678029_njUmYxHKHdn5FO3deXoELJqGv0VgACYf.jpg"
+        },
+        {
+            "name": "Filé de Peixe Empanado",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://w7.pngwing.com/pngs/917/60/png-transparent-french-fries-schnitzel-deep-frying-veal-milanese-fish-and-chips-prato-feito-french-fries-schnitzel-deep-frying.png"
+        },
+        {
+            "name": "Bife Empanado",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://i.pinimg.com/736x/14/98/21/1498218fac3a2f12ce6bd92f0bc36456.jpg"
+        },
+        {
+            "name": "Contra Filé",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://s3-sa-east-1.amazonaws.com/loja2/48174ba9f1efe3b5bad6a0ff2ee6bae1.jpg"
+        },
+        {
+            "name": "Frango à Parmegiana",
+            "desc": "Arroz, Feijão, Batatas Fritas, Salada.",
+            "price": "25,00",
+            "imgSrc": "https://img.saborosos.com.br/imagens/file-de-frango-a-parmegiana.jpg"
+        }
+    ],
+    "Lanches-Gourmet": [
+        {
+            "name": "X-Burguer 120g",
+            "desc": "Hamburguer Gourmet de 120g, Queijo Mussarela com molho especial.",
+            "price": "19,99",
+            "imgSrc": "https://deliveryportodegalinhas.com.br/wp-content/uploads/2017/08/x-burguer.jpg"
+        },
+        {
+            "name": "X-Burguer 200g",
+            "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela com molho especial.",
+            "price": "21,99",
+            "imgSrc": "https://deliveryportodegalinhas.com.br/wp-content/uploads/2017/08/x-burguer.jpg"
+        },
+        {
+            "name": "X-Salada 120g",
+            "desc": "Hamburguer Gourmet de 120g, Queijo Mussarela, Salada, com molho especial.",
+            "price": "22,99",
+            "imgSrc": "https://assets.unileversolutions.com/recipes-v2/106684.jpg"
+        },
+        {
+            "name": "X-Salada 200g",
+            "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela, Salada, com molho especial.",
+            "price": "25,99",
+            "imgSrc": "https://assets.unileversolutions.com/recipes-v2/106684.jpg"
+        },
+        {
+            "name": "X-Bacon 120g",
+            "desc": "Hamburguer Gourmet de 120g, Queijo Mussarela, Salada e Bacon com molho especial.",
+            "price": "23,99",
+            "imgSrc": "https://embutidosbonatti.ind.br/temp/BIN_57_V9Fb0BwK.jpg"
+        },
+        {
+            "name": "X-Bacon 200g",
+            "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela, Salada e Bacon com molho especial.",
+            "price": "23,99",
+            "imgSrc": "https://embutidosbonatti.ind.br/temp/BIN_57_V9Fb0BwK.jpg"
+        },
+        {
+            "name": "X-Egg 120g",
+            "desc": "Hamburguer Gourmet de 120g, Queijo Mussarela, Salada, e Ovo com molho especial.",
+            "price": "26,99",
+            "imgSrc": "https://s3-sa-east-1.amazonaws.com/loja2/bc29ecd8ee29251207789784077b4437.png"
+        },
+        {
+            "name": "X-Egg 200g",
+            "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela, Salada, e Ovo com molho especial.",
+            "price": "28,99",
+            "imgSrc": "https://s3-sa-east-1.amazonaws.com/loja2/bc29ecd8ee29251207789784077b4437.png"
+        },
+        {
+            "name": "X-Bacon Egg 120g",
+            "desc": "Hamburguer Gourmet de 120g, Queijo Mussarela, Salada, Bacon e Ovo com molho especial.",
+            "price": "26,99",
+            "imgSrc": "https://big10.com.br/wp-content/uploads/2021/03/hamburguer-xbacon.jpg"
+        },
+        {
+            "name": "X-Bacon Egg 200g",
+            "desc": "Hamburguer Gourmet de 200g, Queijo Mussarela, Salada, Bacon e Ovo com molho especial.",
+            "price": "28,99",
+            "imgSrc": "https://big10.com.br/wp-content/uploads/2021/03/hamburguer-xbacon.jpg"
+        },
+        {
+            "name": "X-Tudo",
+            "desc": "Hamburguer, Queijo Mussarela, Presunto, Salada, Bacon e Ovo no Pão Francês",
+            "price": "21,99",
+            "imgSrc": "https://storage.googleapis.com/domain-images/917f20cf-8264-4464-bf5b-568562330312/products/gallery_9cadb3d1-99af-4caf-82bb-fb294a85c4c8.jpg"
+        },
+        {
+            "name": "X-Frango",
+            "desc": "Filé de Frango, Queijo Mussarela e Salada.",
+            "price": "16,99",
+            "imgSrc": "https://cdn.awsli.com.br/600x450/91/91803/produto/2968754/f3eaf2dcdb.jpg"
+        },
+        {
+            "name": "X-Frango Tudo",
+            "desc": "Filé de Frango, Queijo Mussarela, Presunto, Salada, Bacon e Ovo.",
+            "price": "18,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        },
+        {
+            "name": "X-Churrasco",
+            "desc": "Contra Filé, Queijo Mussarela e Salada.",
+            "price": "21,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        }
+    ],
+    "Lanches-da-Casa": [
+        {
+            "name": "X-Tudo",
+            "desc": "Hamburguer, Queijo Mussarela, Presunto, Salada, Bacon e Ovo no Pão Francês",
+            "price": "21,99",
+            "imgSrc": "https://storage.googleapis.com/domain-images/917f20cf-8264-4464-bf5b-568562330312/products/gallery_9cadb3d1-99af-4caf-82bb-fb294a85c4c8.jpg"
+        },
+        {
+            "name": "X-Frango",
+            "desc": "Filé de Frango, Queijo Mussarela e Salada.",
+            "price": "16,99",
+            "imgSrc": "https://cdn.awsli.com.br/600x450/91/91803/produto/2968754/f3eaf2dcdb.jpg"
+        },
+        {
+            "name": "X-Frango Tudo",
+            "desc": "Filé de Frango, Queijo Mussarela, Presunto, Salada, Bacon e Ovo.",
+            "price": "18,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        },
+        {
+            "name": "X-Churrasco",
+            "desc": "Contra Filé, Queijo Mussarela e Salada.",
+            "price": "21,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        }
+    ],
+    "Sanduíches": [
+        {
+            "name": "Queijo Quente",
+            "desc": "Queijo Mussarela no Pão francês.",
+            "price": "10,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        },
+        {
+            "name": "Misto Quente",
+            "desc": "Queijo Mussarela e Presunto no Pão francês.",
+            "price": "11,99",
+            "imgSrc": "https://receitinhas.com.br/wp-content/uploads/2022/09/Misto-quente-de-padaria.png"
+        },
+        {
+            "name": "Bauru",
+            "desc": "Queijo Mussarela, Presunto e Tomate no Pão francês com orégano.",
+            "price": "11,99",
+            "imgSrc": "https://i0.statig.com.br/bancodeimagens/2r/5g/l7/2r5gl73lyxqlpxwoodysu86q5.jpg"
+        },
+        {
+            "name": "Americano",
+            "desc": "Queijo Mussarela, Presunto, Tomate e Ovo no Pão francês com orégano.",
+            "price": "13,99",
+            "imgSrc": "https://i0.statig.com.br/bancodeimagens/2r/5g/l7/2r5gl73lyxqlpxwoodysu86q5.jpg"
+        },
+        {
+            "name": "X-Mortadela",
+            "desc": "Queijo Mussarela e Mortadela no Pão francês.",
+            "price": "8,99",
+            "imgSrc": "https://i0.statig.com.br/bancodeimagens/2r/5g/l7/2r5gl73lyxqlpxwoodysu86q5.jpg"
+        },
+        {
+            "name": "Pão com Ovo",
+            "desc": "Mortadela com Ovo no Pão francês.",
+            "price": "7,99",
+            "imgSrc": "https://as2.ftcdn.net/v2/jpg/01/82/43/27/1000_F_182432717_0CEtXnf1CNV2yhyBY6E1V1QfLilrFWi6.jpg"
+        }
+    ],
+    "Tapioca-Salgada": [
+        {
+            "name": "Tapioca com Manteiga",
+            "desc": "",
+            "price": "7,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca de Presunto e Queijo",
+            "desc": "",
+            "price": "11,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca Bauru",
+            "desc": "",
+            "price": "12,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Calabresa",
+            "desc": "",
+            "price": "8,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Carne Seca",
+            "desc": "",
+            "price": "11,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Frango com Queijo Mussarela",
+            "desc": "",
+            "price": "11,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        }
+    ],
+    "Tapioca-Doce": [
+        {
+            "name": "Tapioca com Nutella",
+            "desc": "",
+            "price": "33,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Nutella e Coco",
+            "desc": "",
+            "price": "34,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Leite Condesnado",
+            "desc": "",
+            "price": "8,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Tapioca com Leite Condesnado e Coco",
+            "desc": "",
+            "price": "11,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        }
+    ],
+    "Porções": [
+        {
+            "name": "Porção de Batata Pequena",
+            "desc": "",
+            "price": "6,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Porção de Batata Média",
+            "desc": "",
+            "price": "14,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Porção de Batata Grande",
+            "desc": "",
+            "price": "24,99",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+        },
+        {
+            "name": "Porção de Calabresa.",
+            "desc": "Acompanha Cebola.",
+            "price": "29,99",
+            "imgSrc": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-2024-1ad9369edbeb228f064158ebfa6ae528.jpg"
+        },
+        {
+            "name": "Frango a Passarinho.",
+            "desc": "Acompanha Cebola.",
+            "price": "36,99",
+            "imgSrc": "https://391154c6b9.cbaul-cdnwnd.com/573a79a399d802fcd875cc1800dfb9a6/system_preview_detail_200000005-652ec6723d/1312561236869.jpg"
+        },
+        {
+            "name": "Porção de Contra Filé.",
+            "desc": "Acompanha Cebola.",
+            "price": "54,99",
+            "imgSrc": "https://as2.ftcdn.net/v2/jpg/04/07/57/89/1000_F_407578902_z8AQT4dEnQ26otSEKW1RDwraXEGpMLoC.jpg"
+        }
+    ]
+}
