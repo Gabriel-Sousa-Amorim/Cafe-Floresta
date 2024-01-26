@@ -24,9 +24,9 @@
     <section>
       <nav>
         <ul class="flex w-full justify-around gap-5">
-          <li><a class="hover:underline hover:text-green-800" href="#SobreNos">Sobre Nós</a></li>
-          <li><a class="hover:underline hover:text-green-800" href="#Localizacao">Localização</a></li>
-          <li><a class="hover:underline hover:text-green-800" href="#Cardapio">Cardápio</a></li>
+          <li><a class="hover:underline hover:text-lime-800" href="#SobreNos">Sobre Nós</a></li>
+          <li><a class="hover:underline hover:text-lime-800" href="#Localizacao">Localização</a></li>
+          <li><a class="hover:underline hover:text-lime-800" href="#Cardapio">Cardápio</a></li>
         </ul>
       </nav>
     </section>
@@ -55,9 +55,10 @@
       <section id="cardapioSection" class="min-h-screen">
         <div class="flex justify-between">
           <h2 class="text-2xl font-MontserratAlternates font-bold">Nosso Cardápio</h2>
-          <div id="viewContainer" class="flex gap-5 font-RethinkSans">
-            <button id="gridViewBtn" class="bi-layout-text-window-reverse hover:text-gray-500"> Texto</button>
-            <button id="textViewBtn" class="bi-grid hover:text-gray-500"> Imagens</button>
+          <div id="viewContainer" class="flex gap-5 font-RethinkSans border-t border-x rounded-t-xl px-4 pt-1">
+            <button id="gridViewBtn" class="bi-layout-text-window-reverse hover:text-lime-500"> Texto</button>
+            <p>|</p>
+            <button id="textViewBtn" class="bi-grid hover:text-lime-500"> Imagens</button>
           </div>
         </div>
         <hr>
@@ -67,31 +68,19 @@
       </section>
     </article>
   </main>
-  <footer class="
-  min-h-20
-  flex
-  justify-between
-  items-center
-  bg-amber-950
-  border-t-4
-  border-green-500
-  px-20
-  mt-5
-  text-green-500
-  font-MontserratAlternates
-  ">
-    <section>
-      <h1 class="italic text-2xl">Café Floresta</h1>
-    </section>
-    <section>
-      <nav>
-        <ul class="flex w-full justify-around gap-5">
-          <li><a class="hover:underline hover:text-green-800" href="#SobreNos">Sobre Nós</a></li>
-          <li><a class="hover:underline hover:text-green-800" href="#Localizacao">Localização</a></li>
-          <li><a class="hover:underline hover:text-green-800" href="#Cardapio">Cardápio</a></li>
-        </ul>
-      </nav>
-    </section>
+  <footer id="footer" class="min-h-40 px-10 bg-cover bg-fixed flex justify-between items-center border-t-4 border-lime-300 text-lime-300 mt-10 font-MontserratAlternates">
+  <section>
+    <h1 class="italic text-2xl">Café Floresta</h1>
+  </section>
+  <section>
+    <nav>
+      <ul class="flex w-full justify-around gap-5">
+        <li><a class="hover:underline hover:text-lime-800" href="#SobreNos">Sobre Nós</a></li>
+        <li><a class="hover:underline hover:text-lime-800" href="#Localizacao">Localização</a></li>
+        <li><a class="hover:underline hover:text-lime-800" href="#Cardapio">Cardápio</a></li>
+      </ul>
+    </nav>
+  </section>
   </footer>
 </body>
 <script src="main.js">
