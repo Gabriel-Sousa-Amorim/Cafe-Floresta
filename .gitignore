@@ -1,5 +1,6 @@
 node_modules/
 docs/input.css
+docs/style.css
 package.json
 package-lock.json
 .gitignore
